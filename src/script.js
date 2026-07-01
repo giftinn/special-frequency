@@ -109,16 +109,15 @@ html:`
 
 <span class="signal">TRANSMISSION START</span><br><br>
 
-TRANSMISSION START
+Dear Niel,
 
-Sometimes I wonder if you notice how softly you exist inside my universe. Sometimes I wonder if you notice how softly you exist inside my universe.
-Sometimes I wonder if you notice how softly you exist inside my universe.
+I don't know if I'll ever find the perfect words to explain how much you once meant to me, so I'll just say this.
 
-Sometimes I wonder if you notice how softly you exist inside my universe. Not loud. Not chaotic.
+Loving you was one of the most beautiful things I've ever experienced. You gave me memories I'll always carry with me, and no matter how much time passes, a part of my heart will always be grateful that our paths crossed.
 
-But like late night radio waves that stay playing even when the world sleeps.
+I love you, always.
 
-END SIGNAL
+
 <span class="signal">END SIGNAL</span>
 
 </div>
