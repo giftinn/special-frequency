@@ -16,8 +16,8 @@ html:`
 <div class="songCard">
 <img class="cover" src="src/pict.jpg">
 <div class="songInfo">
-<div>Mystery of Love</div>
-<div style="font-size:12px;opacity:.7;margin-bottom:10px">Sufjan Stevens</div>
+<div>Shape of My Heart</div>
+<div style="font-size:12px;opacity:.7;margin-bottom:10px">Backstreet Boys</div>
 
 <div class="player">
 <div class="topRow">
@@ -46,18 +46,18 @@ html:`
 <div class="filmTrack">
 
 <img src="src/1.jpg" class="filmPic">
-<img src="src/2.jpg" class="filmPic">
-<img src="src/3.jpg" class="filmPic">
-<img src="src/4.jpg" class="filmPic">
-<img src="src/5.jpg" class="filmPic">
-<img src="src/pict.jpg" class="filmPic">
+<img src="src/1.jpg" class="filmPic">
+<img src="src/1.jpg" class="filmPic">
+<img src="src/1.jpg" class="filmPic">
+<img src="src/1.jpg" class="filmPic">
+<img src="src/1.jpg" class="filmPic">
 
 <img src="src/1.jpg" class="filmPic">
-<img src="src/2.jpg" class="filmPic">
-<img src="src/3.jpg" class="filmPic">
-<img src="src/4.jpg" class="filmPic">
-<img src="src/5.jpg" class="filmPic">
-<img src="src/pict.jpg" class="filmPic">
+<img src="src/1.jpg" class="filmPic">
+<img src="src/1.jpg" class="filmPic">
+<img src="src/1.jpg" class="filmPic">
+<img src="src/1.jpg" class="filmPic">
+<img src="src/1.jpg" class="filmPic">
 
 </div>
 </div>
@@ -376,7 +376,7 @@ function checkStation(){
 function togglePlay(){
 const btn=document.getElementById("playBtn");
 if(audio.paused){
-audio.src="src/song.mp3";
+audio.src="https://giftinn.github.io/music-host/shapeof.mp3";
 audio.play();
 btn.textContent="⏸";
 }else{
